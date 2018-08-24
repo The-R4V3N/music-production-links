@@ -31,7 +31,7 @@ Bookmarks
 
 [Ableton Live 10 - Techno Reverb BPM/Synced Offset Trick](https://www.youtube.com/watch?v=jrVsC8y4pbo&t=0s&index=111&list=WL)
 
-[Tutorial: Build A Dynamic EQ Inside Ableton Live [Free Download](https://www.joshuacasper.com/aa/build-dynamic-eq-inside-ableto/)
+[Tutorial: Build A Dynamic EQ Inside Ableton Live [Free Download]](https://www.joshuacasper.com/aa/build-dynamic-eq-inside-ableto/)
 
 [Tune Your KICKS – a Tutorial – Everything You Need to Know!](https://www.joshuacasper.com/ableton-tutorials/tune-your-kicks/)
 
