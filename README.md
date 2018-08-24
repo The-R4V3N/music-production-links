@@ -31,6 +31,10 @@ Bookmarks
 
 [Ableton Live 10 - Techno Reverb BPM/Synced Offset Trick](https://www.youtube.com/watch?v=jrVsC8y4pbo&t=0s&index=111&list=WL)
 
+[Tutorial: Build A Dynamic EQ Inside Ableton Live [Free Download](https://www.joshuacasper.com/aa/build-dynamic-eq-inside-ableto/)
+
+[Tune Your KICKS – a Tutorial – Everything You Need to Know!](https://www.joshuacasper.com/ableton-tutorials/tune-your-kicks/)
+
 ### Arrangement
 
 [Basic Arrangement/Structure Of Techno, House, Tech House & Minimal](https://www.youtube.com/watch?v=deavzP5Hkqc&t=0s&index=156&list=WL)
@@ -125,6 +129,8 @@ Bookmarks
 [Mastering with Ableton Built-In Effects - Complete Mastering Chain ...](https://www.youtube.com/watch?v=UfB7H4XXrYU)
 
 [How To Master a Trap Song Tutorial - YouTube](https://www.youtube.com/watch?v=G4OZOCrz1dQ&index=13&list=WL&t=0s)
+
+[How to Master Electronic Music](https://music.tutsplus.com/tutorials/how-to-master-electronic-music--cms-28982)
 
 ### Max4Live
 
