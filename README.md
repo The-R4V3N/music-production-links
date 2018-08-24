@@ -87,6 +87,11 @@ Bookmarks
 
 [How I Accurately Extract Groove & Swing From Anything In Ableton Live - YouTube](https://www.youtube.com/watch?v=fyAIs58l064&t=0s&list=WL&index=5)
 
+[How to make Underworld's Born Slippy Baseline - Producertech.com](http://www.producertech.com/lesson/118/1979/1/making-the-born-slippy-bassline)
+
+[How to make a Percussion Techno Baseline in Ableton with Spektre- YouTube](https://www.youtube.com/watch?v=OX2-G55QDR4&feature=youtu.be)
+
+
 ### Effects
 
 [What Is A Formant Filter? - A Look At Different Vowel Filters - YouTube](https://www.youtube.com/watch?v=BG405bnPc3w&t=0s&list=WL&index=9)
