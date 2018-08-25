@@ -33,7 +33,6 @@ Bookmarks
 
 [Tutorial: Build A Dynamic EQ Inside Ableton Live [Free Download]](https://www.joshuacasper.com/aa/build-dynamic-eq-inside-ableto/)
 
-[Tune Your KICKS – a Tutorial – Everything You Need to Know!](https://www.joshuacasper.com/ableton-tutorials/tune-your-kicks/)
 
 ### Arrangement
 
@@ -99,6 +98,7 @@ Bookmarks
 
 [How to make a Dark Techno Kick in Ableton - Mind-Flux](https://www.mind-flux.com/news-1/2018/7/23/how-to-make-a-dark-techno-kick)
 
+[Tune Your KICKS – a Tutorial – Everything You Need to Know!](https://www.joshuacasper.com/ableton-tutorials/tune-your-kicks/)
 
 ### Effects
 
