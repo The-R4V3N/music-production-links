@@ -83,6 +83,8 @@ Bookmarks
 
 [Ableton Live 9 Tutorial How to Make Deadmau5 Chords/Melodies - YouTube](https://www.youtube.com/watch?v=3ztva83QxZ4)
 
+[ How to make an Dark Techno Chord in Ableton - Mind-Flux](https://www.mind-flux.com/news-1/2018/7/19/how-to-make-an-dark-techno-chord)
+
 ### Drums
 
 [Ableton Tutorial: Bring your drums to life with this simple method - YouTube](https://www.youtube.com/watch?v=YNqJf7fy7sU)
@@ -94,6 +96,8 @@ Bookmarks
 [How to make Underworld's Born Slippy Baseline - Producertech.com](http://www.producertech.com/lesson/118/1979/1/making-the-born-slippy-bassline)
 
 [How to make a Percussion Techno Baseline in Ableton with Spektre- YouTube](https://www.youtube.com/watch?v=OX2-G55QDR4&feature=youtu.be)
+
+[How to make a Dark Techno Kick in Ableton - Mind-Flux](https://www.mind-flux.com/news-1/2018/7/23/how-to-make-a-dark-techno-kick)
 
 
 ### Effects
