@@ -435,3 +435,36 @@ Bookmarks
 [Latest Album Workflow & Concept - YouTube](https://www.youtube.com/watch?v=MNrrKerhvTY&t=0s&list=WL&index=11)
 
 [Free Content Creative Habits – Beat Academy](https://www.beatacademy.com/fc-creativehabits/)
+
+### Distribution sites
+
+
+[Amuse.io is free service to get your music to all major streaming services](https://amuse.io/)
+
+
+[Distrokid is service to get your music to all major streaming services for yearly cost of $19.99](https://distrokid.com/)
+
+[LANDR](https://www.landr.com/en/digital-distribution)
+
+[CD Baby](https://cdbaby.com/)
+
+[TuneCore](https://www.tunecore.com/)
+
+[Ditto Music](https://www.dittomusic.com/)
+
+[Loudr](https://loudr.fm/)
+
+[Record Union](https://www.recordunion.com/)
+
+[Mondo Tunes](https://www.mondotunes.com/)
+
+[Reverb Nation](https://www.reverbnation.com/)
+
+[Symphonic](https://symphonicdistribution.com/)
+
+[iMusician](https://www.imusiciandigital.com/en/)
+
+[The Orchard they work only with Lables](http://www.theorchard.com/)
+
+
+[AWAL selected applications only](https://www.awal.com/company)
