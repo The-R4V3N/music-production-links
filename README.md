@@ -33,6 +33,8 @@ Bookmarks
 
 [Tutorial: Build A Dynamic EQ Inside Ableton Live [Free Download]](https://www.joshuacasper.com/aa/build-dynamic-eq-inside-ableto/)
 
+[Ableton Live Beginner tutorial User Lybrary](https://sonicbloom.net/en/the-beginners-guide-to-ableton-lives-user-library-video-tutorials/)
+
 
 ### Arrangement
 
