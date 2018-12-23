@@ -440,6 +440,13 @@ Bookmarks
 
 [Free Content Creative Habits – Beat Academy](https://www.beatacademy.com/fc-creativehabits/)
 
+
+### Plugin Tips and Tricks
+
+[HOW TO: Master Class: Xfer Serum](https://www.emusician.com/how-to/how-to-master-class-xfer-serum)
+
+
+
 ### Distribution sites
 
 
