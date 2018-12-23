@@ -35,6 +35,8 @@ Bookmarks
 
 [Ableton Live Beginner tutorial User Lybrary](https://sonicbloom.net/en/the-beginners-guide-to-ableton-lives-user-library-video-tutorials/)
 
+[Abelton Live How to create a vinyl effect](www.musicsoftwaretraining.com/how-to-create-a-vinyl-effect-in-ableton/)
+
 
 ### Arrangement
 
