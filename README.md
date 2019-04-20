@@ -37,6 +37,9 @@ Bookmarks
 
 [Abelton Live How to create a vinyl effect](www.musicsoftwaretraining.com/how-to-create-a-vinyl-effect-in-ableton/)
 
+[5 Abelton Tips you should know for faster workflow] 
+(https://youtu.be/Wo3oYPyDVX8/) 
+
 
 ### Arrangement
 
